@@ -30,3 +30,5 @@ Create Context for Thanos
 >>> polyglot.eval(language="thanos",string="asdf")
 1
 ```
+# thanosDSL
+A Truffle DSL for algebraic rewrites to speed up linear algebra algorithms
